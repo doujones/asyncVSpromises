@@ -1,2 +1,0 @@
-# asyncVSpromises
-Created with CodeSandbox
